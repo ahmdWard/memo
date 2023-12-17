@@ -1,0 +1,28 @@
+217 Contains_Duplicate easy
+242 Valid_Anagram easy
+1 Two_Sum easy
+49 Group_Anagrams medium
+238 Product_of_Array_Except_Self medium
+36 Valid_Sudoku medium
+128 Longest_Consecutive_Sequence medium
+125 Valid_Palindrome easy
+167 Two_Sum_II_Input_Array_Is_Sorted medium
+15 3Sum medium
+11 Container_With_Most_Water medium
+42 Trapping_Rain_Water Hard
+20 Valid_Parentheses easy
+155 Min_Stack medium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
